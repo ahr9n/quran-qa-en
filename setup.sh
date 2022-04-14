@@ -1,9 +1,9 @@
 mkdir -p ~/.streamlit/
 
 pip install streamlit
+pip install git+https://github.com/deepset-ai/haystack.git
 pip uninstall torch
 pip install torch==1.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
-# pip install git+https://github.com/deepset-ai/haystack.git
 
 # --find-links https://download.pytorch.org/whl/torch_stable.html
 # torch==1.7.0+cpu
