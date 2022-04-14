@@ -1,2 +1,2 @@
-farm-haystack
-streamlit
+streamlit==0.75.0
+farm-haystack==0.6.0
