@@ -1,0 +1,4 @@
+farm-haystack
+torch
+pandas
+streamlit
