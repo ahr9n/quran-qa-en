@@ -7,6 +7,7 @@ import streamlit as st
 from os import path
 import pandas as pd
 
+st.title("Quran QA")
 st.markdown("<center> <h1> 📜 Quran Question Answering System Using English Translations </h1> </center>", True)
 
 
